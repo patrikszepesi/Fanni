@@ -1,0 +1,2 @@
+handling and managing  network requests.
+2 software libraries axios and fetch. fetch isnt technically a library. its built into modern browsers, axios is a third party package
